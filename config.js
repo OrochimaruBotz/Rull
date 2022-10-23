@@ -1,19 +1,19 @@
 //=============『 MAIN 』================== //
-global.owner = ['6285746030186', '6285607831410'] // Ganti Jadi Nomormu
-global.mods = ['0'] 
-global.prems = [''] 
+global.owner = ['6288804947282'] // Ganti Jadi Nomormu
+global.mods = ['6288804947282'] 
+global.prems = ['6288804947282'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Nama Owner'
-global.numberowner = '6285746030186' // Ganti Jadi Nomor mu
+global.nameowner = 'Humanz'
+global.numberowner = '6288804947282' // Ganti Jadi Nomor mu
 global.instagram = '-' // Ig Kamu
-global.github = 'https://github.com/ZennRull' // Github kamu (biarin aja kalau gaada)
+global.github = 'https://github.com/OrochimaruBotz' // Github kamu (biarin aja kalau gaada)
 global.dana = '-' //Dana pulsa gopay
 global.pulsa = '-'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Nama Bot' // Nama Bot
+global.namebot = 'Sung Jinwoo' // Nama Bot
 global.gc = 'https://t.me/pixelbotwhatsapp'
 global.web = 'https://t.me/pixelbotwhatsapp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 15K\n2 Minggu 10K\n1 Minggu 5K'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/ddd9322634f99a534188c.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/ddd9322634f99a534188c.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❍⌇─➭ PixelBot'
+global.wm = '❍⌇─➭ Sung Jinwoo'
 global.watermark = wm
-global.wm2 = '⫹⫺ PixelBot'
-global.wm3 = '❍⌇─➭ PixelBot'
+global.wm2 = '⫹⫺ Sung Jinwoo'
+global.wm3 = '❍⌇─➭ Sung Junwoo'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -37,8 +37,8 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.wait = '_*Loading...*_'
 global.stiker_wait = '*「 Sticker sedang dibuat 」*'
-global.packname = 'By PixelBot\nTelegram:'
-global.author = 'PixelBot\nhttps://t.me/pixelbotwhatsapp'
+global.packname = 'By Sung Jinwoo\nTelegram:'
+global.author = 'Sung Jinwoo\nhttps://t.me/humanz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
